@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "c65951a27370137e60f44d63cedb56a33c43e915",
+    "author": "Carl Boettiger <cboettig@gmail.com>",
+    "time": "2021-04-12 15:46:41",
+    "files": 2,
+    "merge": true,
+    "message": "Merge pull request #38 from noamross/duck-bulk-import-S3\n\nAdd DuckDB fast import methods using S3"
+  },
+  "remote": "https://github.com/ropensci/arkdb",
+  "pkg": "arkdb"
+}
