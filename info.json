@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "0a836d03eac94c3d7d9f697d190546df2b3bd3d0",
+    "author": "Carl <cboettig@gmail.com>",
+    "time": "2024-01-15 23:08:27",
+    "files": 2,
+    "merge": false,
+    "message": "all tests must pass without optional packages\n"
+  },
+  "repo": "https://github.com/ropensci/arkdb",
+  "pkg": "arkdb"
+}
