@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "1dda73d138f51536d8958462d01650c19dec88d1",
+    "author": "Carl Boettiger <cboettig@berkeley.edu>",
+    "time": "2026-02-09T15:07:47Z",
+    "files": 5,
+    "merge": false,
+    "message": "fix docs\n"
+  },
+  "repo": "https://github.com/ropensci/arkdb",
+  "pkg": "arkdb",
+  "time": "2026-08-30T08:09:00Z"
+}
